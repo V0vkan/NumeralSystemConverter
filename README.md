@@ -21,3 +21,6 @@ Input:
 Output:
 
 1011
+
+
+# Fractional numbers can also be converted from one base to another.
