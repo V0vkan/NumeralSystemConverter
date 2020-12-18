@@ -3,7 +3,7 @@
 The program takes three lines:
 1. The source radix;
 2. The source number;
-3. The target radix;
+3. The target radix;\n
 Then, it will output converted number to target radix
 
 Example
