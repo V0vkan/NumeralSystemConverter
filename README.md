@@ -8,7 +8,7 @@ The program takes three lines:
 
 Then, it will output converted number to target radix
 
-Example
+# Example
 
 Input:
 
@@ -24,3 +24,30 @@ Output:
 
 
 # Fractional numbers can also be converted from one base to another.
+
+# Examples
+Exaple 1:
+Input:
+
+10
+
+0.234
+
+7
+
+Output:
+
+0.14315
+
+Exaple 2:
+Input:
+
+35
+
+af.xy
+
+17
+
+Output:
+
+148.g88a8
