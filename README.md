@@ -1,5 +1,5 @@
 # NumeralSystemConverter
-The program converts the number to the target base, min base = 1, max base = 36.
+The program converts the number from the specified base to the target base, min base = 1, max base = 36.
 
 The program takes three lines:
 
