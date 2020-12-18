@@ -13,7 +13,9 @@ Example
 Input:
 
 10
+
 11
+
 2
 
 Output:
